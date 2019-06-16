@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: e36f6b9941bcbac4f93a4397c59a06bc
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: amrish_20180918_0128:pCube3
+    100002: amrish_20180918_0128:pCube4
+    100004: amrish_20180918_0128:polySurface29
+    100006: amrish_20180918_0128:polySurface30
+    100008: amrish_20180918_0128:polySurface34
+    100010: amrish_20180918_0128:pPlane3
+    100012: amrish_20180918_0128:pSphere1
+    100014: amrish_20180918_0128:pSphere2
+    100016: //RootNode
+    100018: pCube1
+    100020: pCube2
+    100022: pCylinder1
+    100024: pCylinder2
+    100026: polySurface1
+    100028: polySurface2
+    100030: polySurface3
+    100032: transform10
+    100034: transform11
+    100036: transform12
+    100038: transform13
+    100040: transform14
+    100042: transform15
+    100044: transform16
+    100046: transform17
+    100048: transform4
+    100050: transform5
+    100052: transform6
+    100054: transform7
+    100056: transform8
+    100058: transform9
+    400000: amrish_20180918_0128:pCube3
+    400002: amrish_20180918_0128:pCube4
+    400004: amrish_20180918_0128:polySurface29
+    400006: amrish_20180918_0128:polySurface30
+    400008: amrish_20180918_0128:polySurface34
+    400010: amrish_20180918_0128:pPlane3
+    400012: amrish_20180918_0128:pSphere1
+    400014: amrish_20180918_0128:pSphere2
+    400016: //RootNode
+    400018: pCube1
+    400020: pCube2
+    400022: pCylinder1
+    400024: pCylinder2
+    400026: polySurface1
+    400028: polySurface2
+    400030: polySurface3
+    400032: transform10
+    400034: transform11
+    400036: transform12
+    400038: transform13
+    400040: transform14
+    400042: transform15
+    400044: transform16
+    400046: transform17
+    400048: transform4
+    400050: transform5
+    400052: transform6
+    400054: transform7
+    400056: transform8
+    400058: transform9
+    2100000: eye_tex
+    2100002: eye_ball
+    2100004: amrish_20180918_0128_threed_tex
+    2100006: phong1
+    2100008: yellow_boder_tex
+    2100010: shoes_tex
+    2100012: body
+    2100014: amrish_20180918_0128_lef_tex
+    2100016: drees_tex
+    2100018: hair_tex
+    2100020: eye_brow
+    2300000: polySurface3
+    3300000: polySurface3
+    4300000: polySurface3
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 4cecc0a055a2cf447b32613e36f1703d
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: durgaa_unity_final_model:durga_unity:polySurface58
+    100002: polySurface154
+    100004: polySurface156
+    100006: polySurface157
+    100008: polySurface158
+    100010: polySurface159
+    100012: polySurface160
+    100014: polySurface161
+    100016: polySurface162
+    100018: polySurface215
+    100020: polySurface216
+    100022: polySurface81
+    100024: pSphere2
+    100026: //RootNode
+    100028: Swaraswati
+    100030: transform80
+    100032: transform81
+    100034: transform82
+    100036: transform83
+    100038: transform84
+    100040: transform85
+    100042: transform86
+    100044: transform87
+    100046: transform88
+    100048: transform89
+    100050: transform90
+    400000: durgaa_unity_final_model:durga_unity:polySurface58
+    400002: polySurface154
+    400004: polySurface156
+    400006: polySurface157
+    400008: polySurface158
+    400010: polySurface159
+    400012: polySurface160
+    400014: polySurface161
+    400016: polySurface162
+    400018: polySurface215
+    400020: polySurface216
+    400022: polySurface81
+    400024: pSphere2
+    400026: //RootNode
+    400028: Swaraswati
+    400030: transform80
+    400032: transform81
+    400034: transform82
+    400036: transform83
+    400038: transform84
+    400040: transform85
+    400042: transform86
+    400044: transform87
+    400046: transform88
+    400048: transform89
+    400050: transform90
+    2100000: eye_tex
+    2100002: eya_baall_tex
+    2100004: boder
+    2100006: drees_tex
+    2100008: durga_tex_4_amrish_20180920_0138_drees_boder
+    2100010: phong4
+    2100012: phong6
+    2100014: phong5
+    2100016: phong8
+    2300000: Swaraswati
+    3300000: Swaraswati
+    4300000: Swaraswati
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

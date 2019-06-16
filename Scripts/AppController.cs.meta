@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 26ff25b890ca79944b05191312bb5fbd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - FirstPersonCamera: {instanceID: 0}
+  - DetectedPlanePrefab: {instanceID: 0}
+  - ARAndroidPrefab: {instanceID: 0}
+  - SearchingForPlaneUI: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
